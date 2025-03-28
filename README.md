@@ -33,4 +33,4 @@
         <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
     </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sammy-art-creator&show_icons=true&locale=en&layout=compact" alt="sammy-art-creator" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sammy-art-creator&show_icons=true&locale=en&layout=compact" alt="sammy-art-creator" /></p>
